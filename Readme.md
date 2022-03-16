@@ -1,6 +1,6 @@
 # Личный проект «PlayHTML»
 
-* Студент: [Ильяс Хакимов](https://up.htmlacademy.ru/email/1/user/1798507).
+* Студент: [Гапур Евлоев](https://up.htmlacademy.ru/email/1/user/1798507).
 * Наставник: `Неизвестно`.
 
 ---
